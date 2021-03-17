@@ -1,2 +1,2 @@
-# practiceJS
+# Exercises 
 # practiceJS
